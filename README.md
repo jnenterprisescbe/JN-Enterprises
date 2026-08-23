@@ -1,4 +1,4 @@
-# Nexora - Free Bootstrap 5 & HTML SaaS Business Website Template
+# JNE - Free Bootstrap 5 & HTML SaaS Business Website Template
 
 #### Preview
 
